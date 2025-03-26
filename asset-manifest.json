@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/daangrah/todo-for-interview/static/css/main.d8c77e24.css",
+    "main.js": "/daangrah/todo-for-interview/static/js/main.2db8287c.js",
+    "index.html": "/daangrah/todo-for-interview/index.html",
+    "main.d8c77e24.css.map": "/daangrah/todo-for-interview/static/css/main.d8c77e24.css.map",
+    "main.2db8287c.js.map": "/daangrah/todo-for-interview/static/js/main.2db8287c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8c77e24.css",
+    "static/js/main.2db8287c.js"
+  ]
+}
